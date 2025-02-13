@@ -1,0 +1,8 @@
+# Ignore user event logs
+user_events.log
+
+# Ignore node_modules (if not already added)
+node_modules/
+
+# Ignore environment variables (if you have a .env file)
+.env
